@@ -7,7 +7,7 @@
 ---
 
 ```sh
-$ git clone git@github.com:nicktheodoro/happy-nlw3.git
+Clone this Repository
 
 $ cd happy-nlw3
 
